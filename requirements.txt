@@ -5,3 +5,4 @@ seaborn
 matplotlib
 jupyterlab
 git+https://github.com/jluethi/napari-feature-visualization.git
+h5py
