@@ -4,7 +4,7 @@ IT introduction for BIO325 (fall 2021)
 ## Installation of Git for Windows
 
 <ol>
-<li> Open a web browser and visit https://git-scm.com/download/win. </li>
+<li> Open a web browser and visit https://git-scm.com/download/. </li>
 <li> Download the correct software version for your operating system.</li>
 <li> Start the installation and follow the instructions</li>
 </ol>
