@@ -9,6 +9,15 @@ IT introduction for BIO325 (fall 2021)
 <li> Start the installation and follow the instructions</li>
 </ol>
 
+## Installation of Git for macOS
+<ol>
+<li> Open the terminal and type the following:
+    
+    git --version
+    
+<li> If Git is not installed yet, follow the instructions to install Xcode Command Line Tools that contain Git.
+</ol>
+
 ## Installation of Miniconda
 
 <ol>
