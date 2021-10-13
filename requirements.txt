@@ -1,0 +1,7 @@
+napari[all]
+numpy
+pandas
+seaborn
+matplotlib
+jupyterlab
+git+https://github.com/jluethi/napari-feature-visualization.git
