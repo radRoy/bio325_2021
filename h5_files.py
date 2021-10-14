@@ -233,5 +233,18 @@ def h5_experiment_summary(fld):
     )
 
 
+def to_numpy(img, pass_everything=False):
+    if isinstance(img, np.ndarray):
+        trans_img = img
+    elif isinstance(img, h5py.Dataset):
+        trans_img = img[...]
+    else:
+        if pass_everything:
+            trans_img = img
+        else:
+            raise ValueError('Unknown image type: {}'.format(type(img)))
+    return trans_img
+
+
 if __name__ == "__main__":
     main()
