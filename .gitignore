@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# - - -
+# dw
+# - - -
+
+
+# ignore folder with data sets (.h5 and .csv files)
+## (copied into this folder so path is same on multiple devices, regardless of username)
+**/bio325_material/**
