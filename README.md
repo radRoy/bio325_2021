@@ -1,3 +1,5 @@
+This forked repository was forked for exploration purposes and is now declared inactive and archived until further notice (26.02.2022).
+
 # bio325_2021
 IT introduction for BIO325 (fall 2021)
 Find this github repository at: https://bit.ly/bio325_github
